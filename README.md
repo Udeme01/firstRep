@@ -1,3 +1,3 @@
 # myApp
-This is my first push to Github. 
+This is my first repo push to Github. 
 # ENJOY
